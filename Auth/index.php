@@ -183,8 +183,8 @@
     </main>
 <br>
     <footer>
-  <p class="left" style="color: white;">&copy; 2025 NIT</p>
-  <p class="right" style="color: white;">Designed and Developed by: NIT DEVELOPER</p>
+  <p class="left" style="color: white;">&copy; <?php echo date('Y');?></p>
+  <p class="right" style="color: white;">Designed and Developed by: ROBETHO JOHN LYANDO</p>
 </footer>
 
   </div>

@@ -1,4 +1,4 @@
 <footer class="footer text-center">
-    &copy; Copyright 2025. All Rights Reserved. Designed and Developed by
-    <a href="#">NIT DEVELOPERS TEAM</a>.
+    &copy; Copyright <?= date('Y') ?>. All Rights Reserved. Designed and Developed by
+    <a href="#">ROBETHO JOHN LYANDO</a>.
 </footer>
