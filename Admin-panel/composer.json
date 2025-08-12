@@ -1,0 +1,17 @@
+{
+    "name": "admin-panel/vendor",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Admin-panel\\Vendor\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Eng Robetho Lyando"
+        }
+    ],
+    "require": {
+        "phpoffice/phpspreadsheet": "^2.0"
+    }
+}
